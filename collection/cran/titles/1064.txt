@@ -1,0 +1,1 @@
+propeller slipstream effects as determined from wing pressure distribution on a large-scale six-propeller vtol model at static thrust . 

@@ -1,0 +1,1 @@
+calculations for the stability of thin conical frustums subjected to external uniform hydrostatic pressure and axial loads . 

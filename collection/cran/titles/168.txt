@@ -1,0 +1,1 @@
+heat conduction through a gas with one inert internal model . 

@@ -1,0 +1,1 @@
+some notes for the small disturbance linear theory of the method of local linearisation of the flow over an airfoil at mach number of unity . 

@@ -1,0 +1,1 @@
+a note on application of transonic linearization to an airfoil with a round leading edge . 

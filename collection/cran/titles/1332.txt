@@ -1,0 +1,1 @@
+calculated spanwise lift distributions, influence functions and influence coefficients for unswept wings in subsonic flow . 

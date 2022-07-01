@@ -1,0 +1,1 @@
+loads induced on a flat plate wing by an air jet exhausting perpendicularly through the wing and normal to a free-stream flow of mach number 2.0 . 

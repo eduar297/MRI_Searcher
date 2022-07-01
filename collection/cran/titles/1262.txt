@@ -1,0 +1,1 @@
+an extension of the linearized characteristics method for calculating the supersonic flow around elliptic cones . 

@@ -1,0 +1,1 @@
+flutter of a two dimensional simply supported buckled panel with elastic restraint against edge displacement . 

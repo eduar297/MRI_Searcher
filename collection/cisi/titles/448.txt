@@ -1,0 +1,1 @@
+An Evaluation of Query Expansion by the Addition of Clustered Terms     for a Document Retrieval System 

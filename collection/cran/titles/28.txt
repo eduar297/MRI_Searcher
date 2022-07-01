@@ -1,0 +1,1 @@
+a note on the explosion solution of sedov with application to the newtonian theory of unsteady hypersonic flow . 

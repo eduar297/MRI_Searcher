@@ -1,0 +1,1 @@
+Comparative Efficiency of Searching Titles, Abstracts, and Terms  in a Free-Text Data Base 

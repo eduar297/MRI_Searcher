@@ -1,0 +1,1 @@
+atmospheric entries with vehicle lift-drag ratio modulated to limit deceleration and rate of deceleration vehicles with maximum lift-drag ratio of 0. 5. 

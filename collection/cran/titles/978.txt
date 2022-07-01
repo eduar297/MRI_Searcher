@@ -1,0 +1,1 @@
+temperature profiles inafinite solid with moving boundary . 

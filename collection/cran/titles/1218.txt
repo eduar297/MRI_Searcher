@@ -1,0 +1,1 @@
+experimental lift and drag of a series of glide configurations at mach numbers 12 .6 and 17 .5. 

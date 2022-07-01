@@ -1,0 +1,1 @@
+bending of a uniformly loaded rectangular plate with two adjacent edges and the others either simply supported or free . 

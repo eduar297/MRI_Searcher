@@ -1,0 +1,1 @@
+one-dimensional transient heat conduction into a double-layer slab subjected to a linear heat input for a small time internal . 

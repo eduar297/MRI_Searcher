@@ -1,0 +1,1 @@
+calculated spanwise lift distributions and aerodynamic influence coefficients for swept wings in subsonic flow . 

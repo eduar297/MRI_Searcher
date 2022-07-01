@@ -1,0 +1,1 @@
+a collection of longitudinal stability derivatives of wings at supersonic speeds . 

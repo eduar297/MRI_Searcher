@@ -1,0 +1,1 @@
+pressure distributions at zero lift for delta wings with rhombic cross sections . 

@@ -1,0 +1,1 @@
+a second order shock-expansion method applicable to bodies of revolution near zero lift . 

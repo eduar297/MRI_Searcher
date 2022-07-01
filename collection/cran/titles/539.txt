@@ -1,0 +1,1 @@
+local heat transfer to a yawed, infite, circular cylinder in laminar compressible flow . 

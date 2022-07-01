@@ -1,0 +1,1 @@
+TOSAR - A Topological method for the Representation of Synthetic and  Analytical Relations of Concepts 

@@ -1,0 +1,1 @@
+calculated lift distributions in incompressible flow on some sweptback wings . 

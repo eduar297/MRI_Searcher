@@ -1,0 +1,1 @@
+calculation of derivatives for a cropped delta wing with subsonic leading edges oscillating in a supersonic airstream . 

@@ -1,0 +1,1 @@
+supersonic drag calculations for a cylindrical shell wing of semicircular cross section combined with a central body of revolution . 

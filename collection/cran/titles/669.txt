@@ -1,0 +1,1 @@
+subsonic potential flow past a sphere inside a cylindrical duct . 

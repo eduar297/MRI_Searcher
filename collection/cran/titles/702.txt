@@ -1,0 +1,1 @@
+numerical determination of indical lift and moment functions for a two dimensional sinking and pitching airfoil at mach numbers 0.5 and 0.6 . 

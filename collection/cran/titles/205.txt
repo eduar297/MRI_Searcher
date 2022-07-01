@@ -1,0 +1,1 @@
+a correlation of airfoil section data with the aerodynamic loads measured on a 45 sweptback wing at subsonic mach numbers . 

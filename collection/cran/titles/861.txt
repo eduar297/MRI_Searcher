@@ -1,0 +1,1 @@
+charts adapted from van driest's turbulent flat-plate theory for determining values of turbulent aerodynamic friction and heat transfer coefficients . 

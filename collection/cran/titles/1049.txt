@@ -1,0 +1,1 @@
+elastic constants for corrugated core sandwich plates . 

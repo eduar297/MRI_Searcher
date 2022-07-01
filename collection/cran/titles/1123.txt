@@ -1,0 +1,1 @@
+an extension of donnell's equation for a circular cylindrical shell . 

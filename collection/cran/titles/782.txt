@@ -1,0 +1,1 @@
+calculated subsonic span loads and resulting stability derivatives of unswept and 45degree sweptback tail surfaces in sideslip and steady roll . 
